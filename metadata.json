@@ -1,0 +1,5 @@
+{
+  "name": "Photo Detective",
+  "description": "Upload a photo to analyze its digital footprint. Detects usage of tools like Photoshop, Lightroom, ChatGPT, and Nano Banana using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
